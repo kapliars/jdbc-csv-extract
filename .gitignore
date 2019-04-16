@@ -1,0 +1,14 @@
+#java specific
+*.class
+target/
+test-output/
+test-output/Default/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+.DS_Store
+doc/
+dependency-reduced-pom.xml
+*.log
+
